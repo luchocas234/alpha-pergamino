@@ -37,10 +37,10 @@ const handleClose =()=> setNav(!nav)
             </div>
             <ul className={!nav ?'hidden' :'absolute bg-blue-700 w-full px-8 md:hidden'}>
                     <li className='border-b-2 border-zinc-300 w-full cursor-pointer'><Link onClick={handleClose} to="home" smooth={true} duration={500}>Home</Link></li>
-          <li className='border-b-2 border-zinc-300 w-full cursor-pointer '><Link onClick={handleClose} to="about" smooth={true} offset={-200} duration={500}>About</Link></li>
-          <li className='border-b-2 border-zinc-300 w-full cursor-pointer'><Link onClick={handleClose} to="support" smooth={true} offset={-50} duration={500}>Support</Link></li>
-          <li className='border-b-2 border-zinc-300 w-full cursor-pointer'><Link onClick={handleClose} to="platforms" smooth={true} offset={-100} duration={500}>Platforms</Link></li>
-          <li className='border-b-2 border-zinc-300 w-full cursor-pointer'><Link onClick={handleClose} to="pricing" smooth={true} offset={-50} duration={500}>Pricing</Link></li>
+          <li className='border-b-2 border-zinc-300 w-full cursor-pointer '><Link onClick={handleClose} to="about" smooth={true} offset={-200} duration={500}>Nosotros</Link></li>
+          <li className='border-b-2 border-zinc-300 w-full cursor-pointer'><Link onClick={handleClose} to="precios" smooth={true} offset={-50} duration={500}>Precios</Link></li>
+          <li className='border-b-2 border-zinc-300 w-full cursor-pointer'><Link onClick={handleClose} to="flota" smooth={true} offset={-100} duration={500}>Flota</Link></li>
+          <li className='border-b-2 border-zinc-300 w-full cursor-pointer'><Link onClick={handleClose} to="contacto" smooth={true} offset={-50} duration={500}>Contacto</Link></li>
 
                 <div className='flex flex-col my-4'>
                 <button className='md:px-8 py-3'>Volar hoy!</button>

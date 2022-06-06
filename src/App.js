@@ -1,10 +1,10 @@
 import About from "./components/about/About";
-import Carousel from "./components/about/Carousel";
+
 import Hero from "./components/hero/Hero";
 import Navbar from "./components/nav/Navbar";
 import {useState, useEffect} from "react";
 import Programs from "./components/programs/Programs";
-import Testimonios from "./components/programs/Testimonios";
+
 import Flotas from "./components/flotas/Flotas";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
