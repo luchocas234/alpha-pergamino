@@ -7,6 +7,7 @@ import Programs from "./components/programs/Programs";
 import Testimonios from "./components/programs/Testimonios";
 import Flotas from "./components/flotas/Flotas";
 import Contact from "./components/contact/Contact";
+import Footer from "./components/footer/Footer";
 
 
 function App() {
@@ -30,6 +31,7 @@ function App() {
      <Programs/>
      <Flotas/> 
      <Contact/>
+     <Footer/>
    
      
     </div>

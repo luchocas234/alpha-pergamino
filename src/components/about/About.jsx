@@ -22,9 +22,11 @@ export default function About() {
             ¡No dudes en contactarnos hoy!
           </p>
           <button className="mb-4 text-xl w-fit  px-8 py-4 mt-2 rounded-full bg-sky-500 text-white   text-bold rounded- shadow-lg hover:bg-slate-800 hover:text-white">Quiero Volar!</button>  
-        </div>       
-        <Carousel img1={foto1} img2={foto2} img3={foto3}/>
-        <div className="bg-blue-700 rounded-lg text-white  flex flex-col justify-between p-8"> 
+        </div> 
+
+        <Carousel img1={foto1} img2={foto2} img3={foto3} clase1={"w-full h-[40vh] sm:h-full md:h-full rounded-lg "}/>
+            
+        <div className="bg-blue-700 rounded-lg text-white  flex flex-col justify-between p-8 "> 
           <ImQuotesLeft className=' relative text-sky-400 my-2 text-4xl'/>     
           <p className="text-lg  text-justify">¡Bienvenido a Alpha!<br/> Estoy comprometido a brindarte una excelente calidad de instruccion y acompañamiento para que logres tus metas en la hermosa carrera aeronáutica que elegiste. 
           <br/>¡Sumate hoy!</p>

@@ -15,7 +15,7 @@ import "swiper/css/navigation";
 // import required modules
 import { Pagination,  Autoplay } from "swiper";
 
-export default function Carousel({img1,img2,img3}) {
+export default function Carousel({img1,img2,img3,clase1}) {
   return (
     <>
       <Swiper
@@ -31,7 +31,7 @@ export default function Carousel({img1,img2,img3}) {
         }}
         
         modules={[Pagination, Autoplay]}
-        className="w-full h-[40vh] md:h-full  rounded-lg "
+        className={clase1}
       >
         <SwiperSlide><img className="w-full h-full object-cover" src={img1} alt="" /></SwiperSlide>
         <SwiperSlide><img className="w-full h-full object-cover" src={img2} alt="" /></SwiperSlide>
