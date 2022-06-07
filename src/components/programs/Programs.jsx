@@ -1,6 +1,6 @@
 import React from 'react'
 import foto1 from'../../media/foto3.jpeg'
-import { CheckIcon } from '@heroicons/react/outline';
+
 import Testimonios from './Testimonios';
 
 export default function Programs() {
