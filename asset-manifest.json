@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/luchocas234/alpha-pergamino/static/css/main.8a2bfb19.css",
-    "main.js": "/luchocas234/alpha-pergamino/static/js/main.0f30c832.js",
-    "static/media/video-hero.mp4": "/luchocas234/alpha-pergamino/static/media/video-hero.0831ce52a3469d84a02f.mp4",
-    "static/media/luscombe-4.jpg": "/luchocas234/alpha-pergamino/static/media/luscombe-4.801bdfe2584edbfa0c91.jpg",
-    "static/media/cessna-2.jpg": "/luchocas234/alpha-pergamino/static/media/cessna-2.f9bd0bdc3a17ad88cb8e.jpg",
-    "static/media/cessna-3.jpg": "/luchocas234/alpha-pergamino/static/media/cessna-3.4c9c96cce863867e88dc.jpg",
-    "static/media/luscombe-3.jpg": "/luchocas234/alpha-pergamino/static/media/luscombe-3.d814bc147d21f88507cd.jpg",
-    "static/media/luscombe-1.jpg": "/luchocas234/alpha-pergamino/static/media/luscombe-1.85a0c1d23bde4cc362f8.jpg",
-    "static/media/luscombe-2.jpg": "/luchocas234/alpha-pergamino/static/media/luscombe-2.1ae91f0e17cd3f5973f0.jpg",
-    "static/media/cessna-1.jpg": "/luchocas234/alpha-pergamino/static/media/cessna-1.2c1cbb6bda77ba9081ed.jpg",
-    "static/media/foto2.jpeg": "/luchocas234/alpha-pergamino/static/media/foto2.c288644751cb38f72836.jpeg",
-    "static/media/foto3.jpeg": "/luchocas234/alpha-pergamino/static/media/foto3.a34d03c37d4289aac3cb.jpeg",
-    "static/media/foto1.jpeg": "/luchocas234/alpha-pergamino/static/media/foto1.8994f928a568023b093e.jpeg",
-    "index.html": "/luchocas234/alpha-pergamino/index.html",
-    "main.8a2bfb19.css.map": "/luchocas234/alpha-pergamino/static/css/main.8a2bfb19.css.map",
-    "main.0f30c832.js.map": "/luchocas234/alpha-pergamino/static/js/main.0f30c832.js.map"
+    "main.css": "/alpha-pergamino/static/css/main.8a2bfb19.css",
+    "main.js": "/alpha-pergamino/static/js/main.8e176206.js",
+    "static/media/video-hero.mp4": "/alpha-pergamino/static/media/video-hero.0831ce52a3469d84a02f.mp4",
+    "static/media/luscombe-4.jpg": "/alpha-pergamino/static/media/luscombe-4.801bdfe2584edbfa0c91.jpg",
+    "static/media/cessna-2.jpg": "/alpha-pergamino/static/media/cessna-2.f9bd0bdc3a17ad88cb8e.jpg",
+    "static/media/cessna-3.jpg": "/alpha-pergamino/static/media/cessna-3.4c9c96cce863867e88dc.jpg",
+    "static/media/luscombe-3.jpg": "/alpha-pergamino/static/media/luscombe-3.d814bc147d21f88507cd.jpg",
+    "static/media/luscombe-1.jpg": "/alpha-pergamino/static/media/luscombe-1.85a0c1d23bde4cc362f8.jpg",
+    "static/media/luscombe-2.jpg": "/alpha-pergamino/static/media/luscombe-2.1ae91f0e17cd3f5973f0.jpg",
+    "static/media/cessna-1.jpg": "/alpha-pergamino/static/media/cessna-1.2c1cbb6bda77ba9081ed.jpg",
+    "static/media/foto2.jpeg": "/alpha-pergamino/static/media/foto2.c288644751cb38f72836.jpeg",
+    "static/media/foto3.jpeg": "/alpha-pergamino/static/media/foto3.a34d03c37d4289aac3cb.jpeg",
+    "static/media/foto1.jpeg": "/alpha-pergamino/static/media/foto1.8994f928a568023b093e.jpeg",
+    "index.html": "/alpha-pergamino/index.html",
+    "main.8a2bfb19.css.map": "/alpha-pergamino/static/css/main.8a2bfb19.css.map",
+    "main.8e176206.js.map": "/alpha-pergamino/static/js/main.8e176206.js.map"
   },
   "entrypoints": [
     "static/css/main.8a2bfb19.css",
-    "static/js/main.0f30c832.js"
+    "static/js/main.8e176206.js"
   ]
 }
