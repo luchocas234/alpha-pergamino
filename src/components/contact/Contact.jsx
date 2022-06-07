@@ -3,7 +3,7 @@ import {FiPhoneCall} from 'react-icons/fi'
 import {RiRoadMapFill} from 'react-icons/ri'
 export default function Contact() {
   return (
-    <div className='w-full p-2 bg-blue-600 relative z-20'>
+    <div name='contacto' className='w-full p-2 bg-blue-600 relative z-20'>
         <div className='max-w-[1200px] mx-auto p-6'>
             <div className='text-white grid grid-cols-2 md:grid-cols-3 gap-4 my-8'>
                 <div className='col-span-2 md:col-span-1 text-4xl font-bold text-center '>¡Sigamos en Contacto!</div>
