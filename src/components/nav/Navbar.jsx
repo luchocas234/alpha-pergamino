@@ -14,12 +14,12 @@ const handleClose =()=> setNav(!nav)
         <div className=' px-2 flex justify-between items-center w-full h-full'>
             <div className='w-full flex items-center justify-between'>
                 <h1 className='text-3xl font-bold ml-4 sm:text-4xl hover:text-sky-500 cursor-pointer hover:scale-110 transition-[0.3s]'>ALPHA.</h1>
-                <ul className='hidden md:flex justify-center text-xl'>
-                    <li className='cursor-pointer hover:text-sky-500 selection-none'><Link to="home" smooth={true} duration={500}>Home</Link></li>
-                    <li className='cursor-pointer hover:text-sky-500 selection-none'><Link to="about" smooth={true} offset={-200} duration={500}>Nosotros</Link></li>
-                    <li className='cursor-pointer hover:text-sky-500 selection-none'><Link to="precios" smooth={true} offset={-50} duration={500}>Precios</Link></li>
-                    <li className='cursor-pointer hover:text-sky-500 selection-none'><Link to="flota" smooth={true} offset={-100} duration={500}>Flota</Link></li>
-                    <li className='cursor-pointer hover:text-sky-500 selection-none'><Link to="contacto" smooth={true} offset={-50} duration={500}>Contacto</Link></li>
+                <ul className='hidden md:flex justify-center text-xl select-none'>
+                    <li className='cursor-pointer hover:text-sky-500 select-none'><Link to="home" smooth={true} duration={500}>Home</Link></li>
+                    <li className='cursor-pointer hover:text-sky-500 select-none'><Link to="about" smooth={true} offset={-200} duration={500}>Nosotros</Link></li>
+                    <li className='cursor-pointer hover:text-sky-500 select-none'><Link to="precios" smooth={true} offset={-50} duration={500}>Precios</Link></li>
+                    <li className='cursor-pointer hover:text-sky-500 select-none'><Link to="flota" smooth={true} offset={-100} duration={500}>Flota</Link></li>
+                    <li className='cursor-pointer hover:text-sky-500 select-none'><Link to="contacto" smooth={true} offset={-50} duration={500}>Contacto</Link></li>
                 </ul>
             
                 <div className='hidden md:flex pr-4'>
