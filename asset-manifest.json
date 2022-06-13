@@ -1,24 +1,27 @@
 {
   "files": {
-    "main.css": "/alpha-pergamino/static/css/main.fd27fd36.css",
-    "main.js": "/alpha-pergamino/static/js/main.95f4e57f.js",
-    "static/media/video-hero.mp4": "/alpha-pergamino/static/media/video-hero.0831ce52a3469d84a02f.mp4",
+    "main.css": "/alpha-pergamino/static/css/main.ed5690e5.css",
+    "main.js": "/alpha-pergamino/static/js/main.275f835a.js",
+    "static/media/video-hero.mp4": "/alpha-pergamino/static/media/video-hero.57feaae981ea5696cad1.mp4",
     "static/media/luscombe-4.jpg": "/alpha-pergamino/static/media/luscombe-4.801bdfe2584edbfa0c91.jpg",
+    "static/media/testimonio2.jpg": "/alpha-pergamino/static/media/testimonio2.7a19b60c0375de337cfe.jpg",
     "static/media/cessna-2.jpg": "/alpha-pergamino/static/media/cessna-2.f9bd0bdc3a17ad88cb8e.jpg",
     "static/media/cessna-3.jpg": "/alpha-pergamino/static/media/cessna-3.4c9c96cce863867e88dc.jpg",
     "static/media/luscombe-3.jpg": "/alpha-pergamino/static/media/luscombe-3.d814bc147d21f88507cd.jpg",
     "static/media/luscombe-1.jpg": "/alpha-pergamino/static/media/luscombe-1.85a0c1d23bde4cc362f8.jpg",
     "static/media/luscombe-2.jpg": "/alpha-pergamino/static/media/luscombe-2.1ae91f0e17cd3f5973f0.jpg",
     "static/media/cessna-1.jpg": "/alpha-pergamino/static/media/cessna-1.2c1cbb6bda77ba9081ed.jpg",
+    "static/media/testimonio1.png": "/alpha-pergamino/static/media/testimonio1.991a1953007920bdf621.png",
     "static/media/foto2.jpeg": "/alpha-pergamino/static/media/foto2.c288644751cb38f72836.jpeg",
     "static/media/foto3.jpeg": "/alpha-pergamino/static/media/foto3.a34d03c37d4289aac3cb.jpeg",
     "static/media/foto1.jpeg": "/alpha-pergamino/static/media/foto1.8994f928a568023b093e.jpeg",
+    "static/media/testimonio3.jpg": "/alpha-pergamino/static/media/testimonio3.f88b7a23192bacb12f51.jpg",
     "index.html": "/alpha-pergamino/index.html",
-    "main.fd27fd36.css.map": "/alpha-pergamino/static/css/main.fd27fd36.css.map",
-    "main.95f4e57f.js.map": "/alpha-pergamino/static/js/main.95f4e57f.js.map"
+    "main.ed5690e5.css.map": "/alpha-pergamino/static/css/main.ed5690e5.css.map",
+    "main.275f835a.js.map": "/alpha-pergamino/static/js/main.275f835a.js.map"
   },
   "entrypoints": [
-    "static/css/main.fd27fd36.css",
-    "static/js/main.95f4e57f.js"
+    "static/css/main.ed5690e5.css",
+    "static/js/main.275f835a.js"
   ]
 }
