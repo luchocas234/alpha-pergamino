@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/alpha-pergamino/static/css/main.776711dd.css",
-    "main.js": "/alpha-pergamino/static/js/main.eee75447.js",
-    "static/media/video-hero.mp4": "/alpha-pergamino/static/media/video-hero.57feaae981ea5696cad1.mp4",
+    "main.css": "/alpha-pergamino/static/css/main.bb86542a.css",
+    "main.js": "/alpha-pergamino/static/js/main.3c2be190.js",
+    "static/media/video-hero.mp4": "/alpha-pergamino/static/media/video-hero.0831ce52a3469d84a02f.mp4",
     "static/media/luscombe-4.jpg": "/alpha-pergamino/static/media/luscombe-4.801bdfe2584edbfa0c91.jpg",
     "static/media/testimonio2.jpg": "/alpha-pergamino/static/media/testimonio2.7a19b60c0375de337cfe.jpg",
     "static/media/cessna-2.jpg": "/alpha-pergamino/static/media/cessna-2.f9bd0bdc3a17ad88cb8e.jpg",
-    "static/media/cessna-3.jpg": "/alpha-pergamino/static/media/cessna-3.4c9c96cce863867e88dc.jpg",
+    "static/media/cessna-3.jpg": "/alpha-pergamino/static/media/cessna-3.d400ed45cbed4d9380ea.jpg",
     "static/media/luscombe-3.jpg": "/alpha-pergamino/static/media/luscombe-3.d814bc147d21f88507cd.jpg",
     "static/media/luscombe-1.jpg": "/alpha-pergamino/static/media/luscombe-1.85a0c1d23bde4cc362f8.jpg",
     "static/media/luscombe-2.jpg": "/alpha-pergamino/static/media/luscombe-2.1ae91f0e17cd3f5973f0.jpg",
@@ -17,11 +17,11 @@
     "static/media/foto1.jpeg": "/alpha-pergamino/static/media/foto1.8994f928a568023b093e.jpeg",
     "static/media/testimonio3.jpg": "/alpha-pergamino/static/media/testimonio3.f88b7a23192bacb12f51.jpg",
     "index.html": "/alpha-pergamino/index.html",
-    "main.776711dd.css.map": "/alpha-pergamino/static/css/main.776711dd.css.map",
-    "main.eee75447.js.map": "/alpha-pergamino/static/js/main.eee75447.js.map"
+    "main.bb86542a.css.map": "/alpha-pergamino/static/css/main.bb86542a.css.map",
+    "main.3c2be190.js.map": "/alpha-pergamino/static/js/main.3c2be190.js.map"
   },
   "entrypoints": [
-    "static/css/main.776711dd.css",
-    "static/js/main.eee75447.js"
+    "static/css/main.bb86542a.css",
+    "static/js/main.3c2be190.js"
   ]
 }
