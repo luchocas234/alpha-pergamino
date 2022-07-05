@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/alpha-pergamino/static/css/main.bb86542a.css",
-    "main.js": "/alpha-pergamino/static/js/main.3c2be190.js",
+    "main.css": "/alpha-pergamino/static/css/main.9058265c.css",
+    "main.js": "/alpha-pergamino/static/js/main.ea8ef2e7.js",
     "static/media/video-hero.mp4": "/alpha-pergamino/static/media/video-hero.0831ce52a3469d84a02f.mp4",
     "static/media/luscombe-4.jpg": "/alpha-pergamino/static/media/luscombe-4.801bdfe2584edbfa0c91.jpg",
     "static/media/testimonio2.jpg": "/alpha-pergamino/static/media/testimonio2.7a19b60c0375de337cfe.jpg",
@@ -17,11 +17,11 @@
     "static/media/foto1.jpeg": "/alpha-pergamino/static/media/foto1.8994f928a568023b093e.jpeg",
     "static/media/testimonio3.jpg": "/alpha-pergamino/static/media/testimonio3.f88b7a23192bacb12f51.jpg",
     "index.html": "/alpha-pergamino/index.html",
-    "main.bb86542a.css.map": "/alpha-pergamino/static/css/main.bb86542a.css.map",
-    "main.3c2be190.js.map": "/alpha-pergamino/static/js/main.3c2be190.js.map"
+    "main.9058265c.css.map": "/alpha-pergamino/static/css/main.9058265c.css.map",
+    "main.ea8ef2e7.js.map": "/alpha-pergamino/static/js/main.ea8ef2e7.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb86542a.css",
-    "static/js/main.3c2be190.js"
+    "static/css/main.9058265c.css",
+    "static/js/main.ea8ef2e7.js"
   ]
 }
