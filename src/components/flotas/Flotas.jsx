@@ -17,7 +17,11 @@ export default function Flotas() {
           Nuestra Flota
         </h2>
 
-        <div className="grid grid-cols-1 md:grid-cols-2  gap-4">
+        <div
+          data-aos="fade-up"
+          data-aos-anchor-placement="top-bottom"
+          className="grid grid-cols-1 md:grid-cols-2  gap-4"
+        >
           <div className="my-8 w-full  gap-4 flex flex-col bg-blue-700  justify-beetwen rounded-lg">
             <Carousel
               className="flex-1"

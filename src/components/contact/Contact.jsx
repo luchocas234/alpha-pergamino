@@ -7,7 +7,7 @@ export default function Contact() {
       name="contacto"
       className="w-full px-2 py-10 bg-blue-600 relative z-20"
     >
-      <div className="max-w-[1200px] mx-auto p-6">
+      <div data-aos="zoom-in" className="max-w-[1200px] mx-auto p-6">
         <div class="text-white grid grid-cols-2 lg:grid-cols-5 md:grid-cols-2 gap-6 my-8 justify center items-center">
           <div class=" col-span-2  my-2 lg:col-span-1 text-4xl font-bold text-center ">
             ¡Sigamos en Contacto!

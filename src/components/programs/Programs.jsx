@@ -33,86 +33,86 @@ export default function Programs() {
             </p>
           </div>
 
-          <div className="grid md:grid-cols-3 p-2 gap-2 relative z-10">
-            <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative  flex flex-col justify-between">
-              <span className="w-fit uppercase px-3 py-1 bg-sky-500 text-white rounded-2xl text-sm ">
-                Bautismos
-              </span>
-              <div>
-                <p className="text-4xl font-bold py-4 flex  text-slate-800 ">
-                  Vuelo Bautismo
+          <div data-aos="zoom-out-right">
+            <div className="grid md:grid-cols-3 p-2 gap-2 relative z-10">
+              <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative  flex flex-col justify-between">
+                <span className="w-fit uppercase px-3 py-1 bg-sky-500 text-white rounded-2xl text-sm ">
+                  Bautismos
+                </span>
+                <div>
+                  <p className="text-4xl font-bold py-4 flex  text-slate-800 ">
+                    Vuelo Bautismo
+                  </p>
+                </div>
+                <p className="text-lg py-2 text-slate-500">
+                  Volá por primera vez, podrás conocer la ciudad de Pergamino
+                  desde arriba, tomar fotos y grabar... ¡Viví la mejor
+                  experiencia con nosotros!
                 </p>
+                <div className="text-2xl">
+                  {/* <button className='w-full py-4 my-4'>Get Started</button> */}
+                </div>
+                <div>
+                  <p className="text-6xl font-bold py-2 flex ">
+                    $4000
+                    <span className="text-xl text-blue-600 flex flex-col justify-end">
+                      /vuelo
+                    </span>
+                  </p>
+                </div>
               </div>
-              <p className="text-lg py-2 text-slate-500">
-                Volá por primera vez, podrás conocer la ciudad de Pergamino
-                desde arriba, tomar fotos y grabar... ¡Viví la mejor experiencia
-                con nosotros!
-              </p>
-              <div className="text-2xl">
-                {/* <button className='w-full py-4 my-4'>Get Started</button> */}
-              </div>
-              <div>
-                <p className="text-6xl font-bold py-2 flex ">
-                  $4000
-                  <span className="text-xl text-blue-600 flex flex-col justify-end">
-                    /vuelo
-                  </span>
+              <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative flex flex-col justify-between">
+                <span className="w-fit uppercase px-3 py-1 bg-sky-500 text-white rounded-2xl text-sm">
+                  Hora de vuelo
+                </span>
+                <div>
+                  <p className="text-4xl font-bold py-4 flex  text-slate-800 ">
+                    Luscombe 8A
+                    <span className="text-xl text-blue-600 flex flex-col justify-end"></span>
+                  </p>
+                </div>
+                <p className="text-lg py-2 text-slate-500">
+                  Para adaptarse de la mejor manera al tren convencional. Te
+                  acompañará en la preparación de tu licencia de piloto aero
+                  aplicador.
                 </p>
+                <div className="text-2xl">
+                  {/* <button className='w-full py-4 my-4'>Get Started</button> */}
+                </div>
+                <div>
+                  <p className="text-6xl font-bold py-2 flex ">
+                    $11.000
+                    <span className="text-xl text-blue-600 flex flex-col justify-end">
+                      /hora
+                    </span>
+                  </p>
+                </div>
               </div>
-            </div>
-
-            <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative flex flex-col justify-between">
-              <span className="w-fit uppercase px-3 py-1 bg-sky-500 text-white rounded-2xl text-sm">
-                Hora de vuelo
-              </span>
-              <div>
-                <p className="text-4xl font-bold py-4 flex  text-slate-800 ">
-                  Luscombe 8A
-                  <span className="text-xl text-blue-600 flex flex-col justify-end"></span>
+              <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative flex flex-col justify-between">
+                <span className="w-fit uppercase px-3 py-1 bg-sky-500 text-white rounded-2xl text-sm">
+                  Hora de vuelo
+                </span>
+                <div>
+                  <p className="text-4xl font-bold py-2 flex  text-slate-800 ">
+                    Cessna 150
+                    <span className="text-xl text-slate-500 flex flex-col justify-end"></span>
+                  </p>
+                </div>
+                <p className="text-lg py-2 text-slate-500">
+                  Avión biplaza, te acompañará en tu camino a la licencia de
+                  Piloto Comercial e Instructor de vuelo.
                 </p>
-              </div>
-              <p className="text-lg py-2 text-slate-500">
-                Para adaptarse de la mejor manera al tren convencional. Te
-                acompañará en la preparación de tu licencia de piloto aero
-                aplicador.
-              </p>
-              <div className="text-2xl">
-                {/* <button className='w-full py-4 my-4'>Get Started</button> */}
-              </div>
-              <div>
-                <p className="text-6xl font-bold py-2 flex ">
-                  $11.000
-                  <span className="text-xl text-blue-600 flex flex-col justify-end">
-                    /hora
-                  </span>
-                </p>
-              </div>
-            </div>
-
-            <div className="bg-white text-slate-900 m-4 p-8 rounded-xl shadow-2xl relative flex flex-col justify-between">
-              <span className="w-fit uppercase px-3 py-1 bg-sky-500 text-white rounded-2xl text-sm">
-                Hora de vuelo
-              </span>
-              <div>
-                <p className="text-4xl font-bold py-2 flex  text-slate-800 ">
-                  Cessna 150
-                  <span className="text-xl text-slate-500 flex flex-col justify-end"></span>
-                </p>
-              </div>
-              <p className="text-lg py-2 text-slate-500">
-                Avión biplaza, te acompañará en tu camino a la licencia de
-                Piloto Comercial e Instructor de vuelo.
-              </p>
-              <div className="text-2xl">
-                {/* <button className='w-full py-4 my-4'>Get Started</button> */}
-              </div>
-              <div className="flex flex-col justify-end">
-                <p className="text-6xl font-bold py-2 flex ">
-                  $13.500
-                  <span className="text-xl text-blue-600 flex flex-col justify-end">
-                    /hora
-                  </span>
-                </p>
+                <div className="text-2xl">
+                  {/* <button className='w-full py-4 my-4'>Get Started</button> */}
+                </div>
+                <div className="flex flex-col justify-end">
+                  <p className="text-6xl font-bold py-2 flex ">
+                    $13.500
+                    <span className="text-xl text-blue-600 flex flex-col justify-end">
+                      /hora
+                    </span>
+                  </p>
+                </div>
               </div>
             </div>
           </div>
