@@ -9,11 +9,11 @@ export default function Contact() {
     >
       <div data-aos="zoom-in" className="max-w-[1200px] mx-auto p-6">
         <div class="text-white grid grid-cols-2 lg:grid-cols-5 md:grid-cols-2 gap-6 my-8 justify center items-center">
-          <div class=" col-span-2  my-2 lg:col-span-1 text-4xl font-bold text-center ">
+          <div class="  col-span-2  my-2 lg:col-span-1 text-4xl font-bold text-center ">
             ¡Sigamos en Contacto!
           </div>
-          <div class=" col-span-1 lg:col-span-3 lg:flex gap-2">
-            <div class="flex mr-6 items-center justify-start gap-2 col-span-1 md:col-span-1 hover:text-slate-800 text-white">
+          <div class=" col-span-2 lg:col-span-3 lg:flex gap-2">
+            <div class="flex mr-6 items-center justify-start gap-2 col-span-3 md:col-span-1 hover:text-slate-800 text-white">
               <a href="https://linkr.bio/alpha.pergamino" target="_blank">
                 <svg
                   stroke="currentColor"
@@ -39,7 +39,7 @@ export default function Contact() {
                 </p>
               </div>
             </div>
-            <div class="flex justify-start items-center gap-2 col-span-2 md:col-span-1 hover:text-slate-800 text-white">
+            <div class="flex justify-start items-center gap-2 col-span-3 md:col-span-1 hover:text-slate-800 text-white">
               <a
                 href="https://www.google.com/maps/place/Alpha+Pergamino/@-33.9152264,-60.6477446,17z/data=!3m1!4b1!4m5!3m4!1s0x95b84bc33b5c2223:0x96711a0a38716bc6!8m2!3d-33.9152309!4d-60.6455559"
                 target="_blank"
@@ -70,7 +70,7 @@ export default function Contact() {
               </div>
             </div>
           </div>
-          <div class="col-span-1 text-4xl flex lg:flex-row flex-col items-center justify-center gap-4">
+          <div class="col-span-3 md:col-span-1 text-4xl flex lg:flex-row  items-center justify-center gap-4">
             <a href="https://www.facebook.com/alpha.pergamino" target="_blank">
               <svg
                 stroke="currentColor"
